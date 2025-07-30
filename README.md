@@ -1,4 +1,7 @@
-﻿# 🎬 Cinema Management System - Capstone Project
+##﻿ My solution repository can be found here:https://github.com/Bree245/cinemacapstone/tree/main
+
+
+# 🎬 Cinema Management System - Capstone Project
 
 ## 📌 Overview
 This is my final Capstone Project for the University of Hull.  
